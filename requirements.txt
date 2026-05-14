@@ -1,6 +1,6 @@
-datasets
-pandas
-scikit-learn
 streamlit
+scikit-learn
+joblib
+requests
 numpy
-jupyter
+pandas
